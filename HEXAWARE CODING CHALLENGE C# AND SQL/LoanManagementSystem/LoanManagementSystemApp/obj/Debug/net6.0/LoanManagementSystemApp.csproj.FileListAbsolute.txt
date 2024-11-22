@@ -1,0 +1,5 @@
+C:\Users\sendh\OneDrive\Desktop\HEXAWARE CODING CHALLENGE C# AND SQL\LoanManagementSystem\LoanManagementSystemApp\obj\Debug\net6.0\LoanManagementSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sendh\OneDrive\Desktop\HEXAWARE CODING CHALLENGE C# AND SQL\LoanManagementSystem\LoanManagementSystemApp\obj\Debug\net6.0\LoanManagementSystemApp.AssemblyInfoInputs.cache
+C:\Users\sendh\OneDrive\Desktop\HEXAWARE CODING CHALLENGE C# AND SQL\LoanManagementSystem\LoanManagementSystemApp\obj\Debug\net6.0\LoanManagementSystemApp.AssemblyInfo.cs
+C:\Users\sendh\OneDrive\Desktop\HEXAWARE CODING CHALLENGE C# AND SQL\LoanManagementSystem\LoanManagementSystemApp\obj\Debug\net6.0\LoanManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\sendh\OneDrive\Desktop\HEXAWARE CODING CHALLENGE C# AND SQL\LoanManagementSystem\LoanManagementSystemApp\obj\Debug\net6.0\LoanManagementSystemApp.csproj.AssemblyReference.cache
